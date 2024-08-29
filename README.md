@@ -8,7 +8,7 @@ Welcome to my github page! i'm Alan Vargas, Backend developer from Mexico, Excit
 
 * 🌍  I'm based in Manzanillo Colima
 * ✉️  You can contact me at [alangdev212@gmail.com](mailto:alangdev212@gmail.com)
-* 🧠  I'm learning DJANGO AND REACT
+* 🧠  I'm learning Kotlin AND Firebase
 
 ### Technologies i use
 
@@ -19,3 +19,7 @@ Welcome to my github page! i'm Alan Vargas, Backend developer from Mexico, Excit
 ### Favorite IDES
 ![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
+
+### Social 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alangabrielvargasponce/)
